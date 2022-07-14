@@ -1,7 +1,6 @@
 pymsteams==0.2.1
 streamlit
-AudioSegment
+pydub==0.25.1
 youtube_dl
 ffmpeg==1.4
 azure.cognitiveservices.speech
-unicode_literals
