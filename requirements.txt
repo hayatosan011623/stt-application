@@ -1,7 +1,7 @@
-ymsteams
+pymsteams==0.2.1
 streamlit
 AudioSegment
 youtube_dl
-ffmpeg
+ffmpeg==1.4
 azure.cognitiveservices.speech
 unicode_literals
