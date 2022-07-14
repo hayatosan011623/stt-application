@@ -1,6 +1,6 @@
 pymsteams==0.2.1
 streamlit
 pydub==0.25.1
-youtube_dl
+youtube-dl==2021.12.17
 ffmpeg==1.4
 azure.cognitiveservices.speech
