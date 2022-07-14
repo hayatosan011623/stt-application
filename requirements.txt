@@ -1,0 +1,7 @@
+ymsteams
+streamlit
+AudioSegment
+youtube_dl
+ffmpeg
+azure.cognitiveservices.speech
+unicode_literals
